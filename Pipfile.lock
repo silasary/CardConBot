@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "410fbe5fad826593bb7165f4b8cf1080eff8b7d75a0f8d410822e5000d67678d"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pennytools": {
+            "git": "https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools.git",
+            "ref": "3cbed5ab4076a9ffd0b3d348a3b538a3db6e04e9"
+        }
+    },
+    "develop": {}
+}

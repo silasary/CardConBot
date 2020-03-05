@@ -1,0 +1,5 @@
+.mypy_cache
+/.vscode/settings.json
+*.pyc
+/config.json
+/site/
